@@ -1,0 +1,31 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 10px;
+}
+
+form {
+    color: black;
+    background-color: aquamarine;
+}
+
+select {
+    margin: 5px;
+    background-color: black;
+    color: aqua;    
+}
+
+button {
+    margin: 25px;
+    background-color: black;
+    color: aqua;    
+}
+
+::placeholder {
+    text-align: center;
+    justify-content: center;
+    font-size: 10px
+
+}
